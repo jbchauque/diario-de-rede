@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Diário de Rede</string>
+    <string name="network_status_title">Estado da ligação</string>
+    <string name="network_status_loading">A verificar ligação...</string>
+    <string name="add_note">Adicionar nota</string>
+    <string name="view_diary">Ver diário</string>
+    <string name="diary_title">Diário de rede</string>
+    <string name="note_hint">Escreva uma nota sobre a rede...</string>
+    <string name="save_note">Guardar nota</string>
+    <string name="empty_diary">Ainda não existem notas.</string>
+    <string name="empty_diary_help">Adicione uma nota para começar o diário.</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="mobile_data">Dados móveis</string>
+    <string name="no_connection">Sem ligação</string>
+    <string name="unknown_network">Rede desconhecida</string>
+    <string name="note_saved">Nota guardada.</string>
+    <string name="note_required">Escreva uma nota antes de guardar.</string>
+</resources>

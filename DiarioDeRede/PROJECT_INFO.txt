@@ -1,0 +1,5 @@
+Projecto: Diário de Rede
+Plataforma: Android
+Linguagem: Java
+Tema: Diário de Rede
+Estado: fonte e documentação revistas estaticamente; compilação/testes Android pendentes.
